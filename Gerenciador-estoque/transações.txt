@@ -1,7 +1,0 @@
-SAIDA,maca,10
-ENTRADA,banana,25
-SAIDA,laranja,15
-SAIDA,maca,5
-SAIDA,uva,35
-ENTRADA,maca,50
-SAIDA,abacaxi,10
